@@ -1,0 +1,14 @@
+# Ignore environment files
+.env
+.env.*
+
+# Ignore secret or private folders
+/secrets/
+/config/private/
+/keys/
+/credentials/
+
+# Ignore dependency and build folders
+node_modules/
+dist/
+build/ 
